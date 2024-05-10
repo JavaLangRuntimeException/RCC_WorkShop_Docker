@@ -1,1 +1,2 @@
 # RCC_WorkShop_Docker
+RCC技術勉強会用のリポジトリです
